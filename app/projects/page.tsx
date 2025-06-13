@@ -72,7 +72,7 @@ const projects = [
     description:
       "Educational website designed for a tuition institute featuring responsive layout, course highlights, and modern UI.",
     image:
-      "https://cdn-imgix.headout.com/tour/7064/TOUR-IMAGE/b2c74200-8da7-439a-95b6-9cad1aa18742-4445-dubai-img-worlds-of-adventure-tickets-02.jpeg?auto=format&w=900&h=562.5&q=90&ar=16%3A10&crop=faces%2Ccenter&fit=crop",
+      "https://i.imghippo.com/files/mOi2999myY.jpeg",
     liveUrl: "https://bright-future-tuition.vercel.app/",
     codeUrl: "https://github.com/mdsthamu/weather-app",
     color: "from-cyan-400 to-blue-500",
