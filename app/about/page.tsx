@@ -123,16 +123,12 @@ export default function AboutPage() {
               <div className="bg-white/70 backdrop-blur-sm rounded-2xl p-8 shadow-xl">
                 <h2 className="text-2xl font-bold text-blue-800 mb-4">My Web Development Journey</h2>
                 <p className="text-gray-700 leading-relaxed mb-4">
-                  Hello! I'm MDS Thamu, a passionate full-stack web developer with over 3 years of experience in
-                  creating modern, responsive, and user-friendly web applications. My journey in programming started
-                  with curiosity and has evolved into a deep passion for solving complex problems through innovative web
-                  solutions.
+                  Hello! I'm MDS Thamu, a dedicated and aspiring full-stack web developer with a strong passion for building modern, responsive, and user-friendly web applications. My journey into web development began out of curiosity and quickly turned into a commitment to mastering the craft of creating engaging digital experiences.
                 </p>
                 <p className="text-gray-700 leading-relaxed">
-                  I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and love working on projects
-                  that challenge me to learn new technologies and push the boundaries of what's possible on the web. As
-                  a freelance web developer in India, I've helped businesses create powerful digital presences through
-                  custom web applications, e-commerce solutions, and responsive website designs.
+                  I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and have been continuously learning and building projects to strengthen my skills. As a fresher, I’ve worked on several personal and academic projects that reflect my ability to design, develop, and deploy functional web applications. I enjoy taking on new challenges, exploring the latest web technologies, and am eager to contribute to real-world projects and grow as a developer.
+
+                  I'm excited to start my professional journey in web development and bring value to teams through creativity, collaboration, and a passion for clean, effective code.
                 </p>
               </div>
             </motion.div>
