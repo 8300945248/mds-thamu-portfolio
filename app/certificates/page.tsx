@@ -11,7 +11,7 @@ const certificates = [
     title: "Smart India Hackathon Participation",
     issuer: "Government of India",
     year: "2024",
-    image: "https://i.imghippo.com/files/yYs1371WY.jpg",
+    image: "/images/c1.jpg",
     description: "Participated in national-level hackathon focusing on innovative solutions for social problems.",
   },
   {
