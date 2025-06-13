@@ -19,7 +19,7 @@ const certificates = [
     title: "Web Development Bootcamp",
     issuer: "Tech Academy",
     year: "2023",
-    image: "https://i.imghippo.com/files/uLP1605FD.jpg",
+    image: "/images/c2.jpg",
     description: "Comprehensive full-stack web development program covering modern frameworks and best practices.",
   },
   {
@@ -27,7 +27,7 @@ const certificates = [
     title: "React Crash Course",
     issuer: "React Institute",
     year: "2023",
-    image: "https://i.imghippo.com/files/egu4594ngo.jpg",
+    image: "/images/c3.jpg",
     description: "Advanced React concepts including hooks, context, and performance optimization techniques.",
   },
   {
@@ -35,7 +35,7 @@ const certificates = [
     title: "Node.js Mastery",
     issuer: "Backend Academy",
     year: "2023",
-    image: "https://i.imghippo.com/files/OIbJ9093sc.jpg",
+    image: "/images/c4.jpg",
     description: "Complete Node.js development including Express.js, APIs, and database integration.",
   },
   {
@@ -43,7 +43,7 @@ const certificates = [
     title: "MongoDB Basics",
     issuer: "Database Institute",
     year: "2022",
-    image: "https://i.imghippo.com/files/BGs8990jxw.jpg",
+    image: "/images/c5.jpg",
     description: "NoSQL database fundamentals, schema design, and advanced querying techniques.",
   },
   {
@@ -51,7 +51,7 @@ const certificates = [
     title: "Responsive Web Design",
     issuer: "Design Academy",
     year: "2022",
-    image: "https://i.imghippo.com/files/yYs1371WY.jpg",
+    image: "/images/c1.jpg",
     description: "Modern CSS techniques, Flexbox, Grid, and mobile-first responsive design principles.",
   },
   {
@@ -59,7 +59,7 @@ const certificates = [
     title: "Git & GitHub Essentials",
     issuer: "Version Control Institute",
     year: "2022",
-    image: "https://i.imghippo.com/files/uLP1605FD.jpg",
+    image: "/images/c2.jpg",
     description: "Version control best practices, collaborative development, and advanced Git workflows.",
   },
   {
@@ -67,7 +67,7 @@ const certificates = [
     title: "JavaScript Algorithms",
     issuer: "Algorithm Academy",
     year: "2022",
-    image: "https://i.imghippo.com/files/egu4594ngo.jpg",
+    image: "/images/c3.jpg",
     description: "Data structures, algorithms, and problem-solving techniques using JavaScript.",
   },
   {
@@ -75,7 +75,7 @@ const certificates = [
     title: "CSS Flexbox & Grid",
     issuer: "Layout Masters",
     year: "2021",
-    image: "https://i.imghippo.com/files/OIbJ9093sc.jpg",
+    image: "/images/c4.jpg",
     description: "Advanced CSS layout techniques for creating complex, responsive web layouts.",
   },
   {
@@ -83,7 +83,7 @@ const certificates = [
     title: "Google Cloud Fundamentals",
     issuer: "Google Cloud",
     year: "2021",
-    image: "https://i.imghippo.com/files/BGs8990jxw.jpg",
+    image: "/images/c5.jpg",
     description: "Cloud computing basics, deployment strategies, and Google Cloud Platform services.",
   },
 ]

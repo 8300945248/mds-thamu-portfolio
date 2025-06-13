@@ -11,7 +11,7 @@ const projects = [
     stack: "HTML5 / CSS3 / JavaScript",
     description:
       "Modern responsive construction company website with interactive galleries, contact forms, and service showcases.",
-    image: "https://i.imghippo.com/files/FYWg1235tXQ.png",
+    image: "/images/p1.png",
     liveUrl: "https://mds-cement-work.vercel.app/",
     codeUrl: "https://github.com/mdsthamu/construction-site",
     color: "from-orange-400 to-red-500",
@@ -23,7 +23,7 @@ const projects = [
     stack: "React + MongoDB + Node.js",
     description:
       "Full-featured online store with shopping cart, payment integration, user authentication, and admin dashboard.",
-    image: "https://i.imghippo.com/files/eSr7048Yck.png",
+    image: "/images/p2.png",
     liveUrl: "https://mds-ecommerce.vercel.app/",
     codeUrl: "https://github.com/mdsthamu/ecommerce-store",
     color: "from-green-400 to-blue-500",
@@ -35,7 +35,7 @@ const projects = [
     stack: "React + Next.js + Tailwind CSS",
     description:
       "Modern responsive portfolio website with smooth animations, interactive components, and optimized performance.",
-    image: "https://i.imghippo.com/files/m7950rQ.png",
+    image: "/images/p3.png",
     liveUrl: "https://mds-portfoliocom.vercel.app/",
     codeUrl: "https://github.com/mdsthamu/portfolio-site",
     color: "from-purple-400 to-pink-500",
@@ -47,7 +47,7 @@ const projects = [
     stack: "MERN Stack",
     description:
       "Advanced contact management system with real-time notifications, analytics, and database integration.",
-    image: "https://i.imghippo.com/files/mpJu4241Ob.png",
+    image: "/images/p4.png",
     liveUrl: "https://contact-manager-rho-henna.vercel.app/",
     codeUrl: "https://github.com/mdsthamu/contact-form-app",
     color: "from-blue-400 to-indigo-500",
@@ -59,7 +59,7 @@ const projects = [
     stack: "Next.js + Tailwind CSS",
     description:
       "Elegant event planning website featuring service highlights, contact sections, and smooth animations tailored for modern celebrations.",
-    image: "https://i.imghippo.com/files/rB2504WFE.png",
+    image: "/images/p5.png",
     liveUrl: "https://ever-after-events.vercel.app/",
     codeUrl: "https://github.com/mdsthamu/todo-app",
     color: "from-teal-400 to-green-500",
@@ -72,7 +72,7 @@ const projects = [
     description:
       "Educational website designed for a tuition institute featuring responsive layout, course highlights, and modern UI.",
     image:
-      "https://i.imghippo.com/files/mOi2999myY.jpeg",
+      "/images/p6.png",
     liveUrl: "https://bright-future-tuition.vercel.app/",
     codeUrl: "https://github.com/mdsthamu/weather-app",
     color: "from-cyan-400 to-blue-500",
